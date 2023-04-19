@@ -98,7 +98,7 @@
 								</button>
                                 <div class="nav-collapse collapse">
                                     <ul class="nav nav-pills ddmenu">
-                                        <li class="dropdown"><a href="home.html">Inicio</a></li>
+                                        <li class="dropdown"><a href="index.html">Inicio</a></li>
                                         <li class="dropdown"><a href="empresa.html">Empresa</a></li>
                                         <li class="dropdown"><a href="servicios.html">Servicios</a></li>
                                         <li class="dropdown"><a href="estudios.html">Estudios </a></li>
